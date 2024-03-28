@@ -28,8 +28,8 @@ Whatever your way of contribution, we are grateful for your support and enthusia
 
 If you have any questions, suggestions, or just want to know more about Baybit Coin, feel free to contact us:
 
-- Email: contact@baybitcoin.one
 - Site:  [www.baybitcoin.one](https://baybitcoin.one)
+- Email: contact@baybitcoin.one
 - Twitter: [@BaybitCoin](https://twitter.com/BaybitCoin)
 - Telegram: [@Baybit_Coin](https://t.me/Baybit_Coin)
 
